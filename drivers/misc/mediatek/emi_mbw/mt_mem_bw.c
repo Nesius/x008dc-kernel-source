@@ -17,8 +17,8 @@
 #include <linux/delay.h>
 #include <linux/platform_device.h>
 #include <linux/sched.h>
-#include "mach/mt_emi_bm.h"
-#include "mach/mt_mem_bw.h"
+#include "mt_emi_bm.h"
+#include "mt_mem_bw.h"
 #include <asm/div64.h>
 
 unsigned long long last_time_ns;
