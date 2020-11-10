@@ -25,7 +25,7 @@
 #include <asm-generic/percpu.h>
 #include <asm-generic/sections.h>
 #include <asm/page.h>
-#include <smp.h>
+#include <linux/smp.h>
 #include <mrdump.h>
 #include <mt-plat/aee.h>
 #include <linux/of.h>
