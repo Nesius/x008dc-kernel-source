@@ -16,7 +16,7 @@
 #include <linux/of.h>
 #include <linux/of_address.h>
 #include <mt-plat/mt_io.h>
-#include "mach/mt_emi_bm.h"
+#include "mt_emi_bm.h"
 
 static unsigned char g_cBWL;
 static void __iomem *EMI_BASE_ADDR; /* not initialise statics to 0 or NULL */
