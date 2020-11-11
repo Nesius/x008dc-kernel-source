@@ -34,7 +34,7 @@
 #include <mach/upmu_sw.h>
 #include <mt-plat/upmu_common.h>
 #include "mt_cpufreq.h"
-#include "mt_gpufreq.h"
+#include "../../drivers/misc/mediatek/base/power/mt6735/mt_gpufreq.h"
 #include <mach/mt_thermal.h>
 
 #ifndef DISABLE_PBM_FEATURE
